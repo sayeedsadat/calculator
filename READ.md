@@ -5,7 +5,7 @@
 Submitted by: **Sayeed Naser Sadat**
 
 <<<<<<< HEAD
-Time spent: **1.5** hours spent in total
+Time spent: **2.5** hours spent in total
 =======
 Time spent: **1** hours spent in total
 >>>>>>> 75ffbbe80b649ec03d59ccb2322ee2183286a8e4
